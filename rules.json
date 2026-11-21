@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "revision": 2026112104,
+ "revision": 2026112105,
  "generatedAt": "2026-11-21",
  "disclaimer": "Always confirm requirements with your vet and the official authority before travel.",
  "fullySupportedSpecies": [
@@ -568,6 +568,56 @@
    "JP",
    "GB",
    "US-HI"
+  ],
+  "IS_CATEGORY_1": [
+   "AU",
+   "AT",
+   "BH",
+   "BE",
+   "BG",
+   "HR",
+   "CY",
+   "CZ",
+   "DK",
+   "EE",
+   "FO",
+   "FI",
+   "FR",
+   "DE",
+   "GR",
+   "IE",
+   "IT",
+   "JP",
+   "LV",
+   "LI",
+   "LT",
+   "LU",
+   "MT",
+   "NL",
+   "NO",
+   "PT",
+   "SG",
+   "SI",
+   "ES",
+   "SE",
+   "CH",
+   "AE",
+   "GB",
+   "XI"
+  ],
+  "IS_CATEGORY_2": [
+   "BA",
+   "CA",
+   "GL",
+   "HU",
+   "MX",
+   "PL",
+   "RO",
+   "RS",
+   "SK",
+   "TW",
+   "TR",
+   "US"
   ],
   "SG_SCHEDULE_I": [
    "AU",
@@ -2160,6 +2210,26 @@
    ]
   },
   {
+   "into": "MX",
+   "from": [
+    "*"
+   ],
+   "species": [
+    "dog",
+    "cat"
+   ]
+  },
+  {
+   "into": "IS",
+   "from": [
+    "*"
+   ],
+   "species": [
+    "dog",
+    "cat"
+   ]
+  },
+  {
    "into": "HK",
    "from": [
     "HK_GROUP_I",
@@ -2348,6 +2418,16 @@
     "dog",
     "cat",
     "ferret"
+   ]
+  },
+  {
+   "into": "US-TN",
+   "from": [
+    "*"
+   ],
+   "species": [
+    "dog",
+    "cat"
    ]
   }
  ],
@@ -6967,6 +7047,739 @@
    "effectiveTo": null
   },
   {
+   "id": "mx-czi",
+   "jurisdiction": "MX",
+   "title": "Zoosanitary Import Certificate on arrival",
+   "explanation": "On arrival, request the Zoosanitary Import Certificate (CZI) at the SENASICA office at your point of entry. Your pet has a physical inspection; ticks must be removed, and the crate must be clean with no bedding, toys or treats.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "hours",
+    "earliest": 0,
+    "latest": 2
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "mx-health-certificate",
+   "jurisdiction": "MX",
+   "title": "Certificate of Good Health",
+   "explanation": "From countries other than the United States and Canada, bring a Certificate of Good Health (original and a copy) with a maximum validity of 15 days from its date of issue. It must come from an official vet, or a private vet on letterhead with their licence number, and give the exporter's and importer's names and addresses, and state the pet was clinically healthy.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": [
+     "US",
+     "CA"
+    ]
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -15,
+    "latest": 0
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "mx-rabies",
+   "jurisdiction": "MX",
+   "title": "Rabies vaccination",
+   "explanation": "The health certificate must give the date the rabies vaccine was given and its period of validity. Animals under 3 months of age are exempt.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": [
+     "US",
+     "CA"
+    ]
+   },
+   "requirement": {
+    "type": "rabiesVaccination",
+    "earliestEntryDaysAfterPrimary": 0,
+    "minAgeDaysAtVaccination": 0,
+    "requireMicrochipFirst": false,
+    "ifNotMet": "Without a certificate or vaccination record, you must hire a private vet in Mexico to give the treatments and issue the certificate, at your cost."
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "appliesFromAgeMonths": 3,
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "mx-deworming",
+   "jurisdiction": "MX",
+   "title": "Internal and external deworming",
+   "explanation": "The certificate must state that the pet was dewormed internally and externally within the six months prior to travel and is free of ectoparasites.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": [
+     "US",
+     "CA"
+    ]
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "departure",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -180,
+    "latest": 0
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "mx-us-screwworm",
+   "jurisdiction": "MX",
+   "title": "Screwworm inspection document (dogs from the United States)",
+   "explanation": "Dogs travelling from the United States need a document showing they are free from New World screwworm, signed by a USDA-accredited vet within the 5 days prior to travel. Cats are exempt.",
+   "species": [
+    "dog"
+   ],
+   "movement": {
+    "from": [
+     "US"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep",
+    "blocksIfMissed": true
+   },
+   "anchor": "departure",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -5,
+    "latest": 0
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "mx-us-ca",
+   "jurisdiction": "MX",
+   "title": "From the United States or Canada",
+   "explanation": "From the United States or Canada, a Certificate of Good Health and vaccination record are not needed; the pet has a physical inspection on arrival.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "US",
+     "CA"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "info"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "SENASICA: Requirements and procedures for traveling to Mexico with your pet",
+    "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-not-approved",
+   "jurisdiction": "IS",
+   "title": "Country not approved by Iceland",
+   "explanation": "Dogs and cats can only be imported to Iceland from approved exporting countries. From other countries MAST may authorise import only for a resident of that country who is moving to Iceland and has owned the pet there for at least six months, under the category 2 conditions.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ]
+   },
+   "requirement": {
+    "type": "notPermitted"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-residency",
+   "jurisdiction": "IS",
+   "title": "Six months in an approved country",
+   "explanation": "The pet must have been in an approved exporting country (or another of the same category) for the last 6 months, or since birth. All dogs and cats count as imports, whatever the length of the visit.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "info"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-permit",
+   "jurisdiction": "IS",
+   "title": "Import permit",
+   "explanation": "Apply to MAST for an import permit, with a photo of the pet. The fee is about ISK 40,000 at minimum.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep",
+    "blocksIfMissed": true
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-quarantine",
+   "jurisdiction": "IS",
+   "title": "Book 14 days of quarantine",
+   "explanation": "Every dog and cat must spend a minimum of 14 days at one of the two quarantine stations (Reykjanesbær or Mósel). They take arrivals on set dates, so book before fixing your flight. Home quarantine is only for certified assistance dogs.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep",
+    "blocksIfMissed": true
+   },
+   "anchor": "arrival",
+   "dependsOn": [
+    "is-permit"
+   ],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-microchip",
+   "jurisdiction": "IS",
+   "title": "Microchip",
+   "explanation": "The pet must have a microchip, and its number must be on every laboratory report. A missing or incorrect microchip is a reason for rejection.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "microchip"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-rabies",
+   "jurisdiction": "IS",
+   "title": "Rabies vaccination",
+   "explanation": "Every dog and cat entering Iceland must have a rabies vaccination. Vaccinations given less than 14 days before import are a reason for rejection.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "rabiesVaccination",
+    "earliestEntryDaysAfterPrimary": 14,
+    "minAgeDaysAtVaccination": 0,
+    "minDaysSinceLastDose": 14
+   },
+   "anchor": "arrival",
+   "dependsOn": [
+    "is-microchip"
+   ],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-titre-1",
+   "jurisdiction": "IS",
+   "title": "Rabies antibody test",
+   "explanation": "A rabies antibody test at an EU-approved laboratory, sampled at least 30 days after a valid rabies vaccination, with a result of at least 0.5 IU/ml. From category 1 countries there is no waiting period once the result is available.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "titreTest",
+    "titreMinDaysAfterVaccination": 30,
+    "minTitreIUPerML": 0.5,
+    "titreWaitDays": 0
+   },
+   "anchor": "arrival",
+   "dependsOn": [
+    "is-rabies"
+   ],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-titre-2",
+   "jurisdiction": "IS",
+   "title": "Rabies antibody test and 90-day wait",
+   "explanation": "A rabies antibody test at an EU-approved laboratory, sampled at least 30 days after vaccination, with a result of at least 0.5 IU/ml. From category 2 countries at least 90 days must pass from the day the sample was collected before import.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "titreTest",
+    "titreMinDaysAfterVaccination": 30,
+    "minTitreIUPerML": 0.5,
+    "titreWaitDays": 90
+   },
+   "anchor": "arrival",
+   "dependsOn": [
+    "is-rabies"
+   ],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-dog-vaccines",
+   "jurisdiction": "IS",
+   "title": "Leptospirosis and core vaccinations (dogs)",
+   "explanation": "Dogs need vaccination against leptospirosis, distemper, hepatitis, parvovirus and parainfluenza, with at least 14 days since the last vaccination before entering Iceland.",
+   "species": [
+    "dog"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": null,
+    "latest": -14
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-parasites-1",
+   "jurisdiction": "IS",
+   "title": "Parasite treatment, first",
+   "explanation": "The pet must have two parasite treatments before import. The first is given 21 to 28 days before. The products are listed in MAST's parasite treatment guide.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -28,
+    "latest": -21
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-parasites-2",
+   "jurisdiction": "IS",
+   "title": "Parasite treatment, second",
+   "explanation": "The second parasite treatment is given 5 to 10 days before import.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [
+    "is-parasites-1"
+   ],
+   "exemptions": [],
+   "source": {
+    "title": "MAST: Import of live animals, frequently asked questions",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -10,
+    "latest": -5
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-paperwork",
+   "jurisdiction": "IS",
+   "title": "Send the health certificate to MAST",
+   "explanation": "The signed health certificate (form D1/D2 for dogs, C1/C2 for cats) must reach MAST no less than 5 days before import, and by 12 noon on the previous Friday. Late paperwork is a reason for rejection.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep",
+    "blocksIfMissed": true
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": null,
+    "latest": -5
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-arrival",
+   "jurisdiction": "IS",
+   "title": "Arrival at Keflavík",
+   "explanation": "All pets must arrive at Keflavík Airport between 06:00 and 17:00. Weekend arrivals are not approved, and arrival by ferry is not permitted.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "info"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-not-pregnant",
+   "jurisdiction": "IS",
+   "title": "Not eligible if pregnant, nursing or recently injured",
+   "explanation": "Pregnant or lactating animals, and animals injured or recently operated on, may not be imported unless MAST permits.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "IS_CATEGORY_1",
+     "IS_CATEGORY_2"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "info"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "is-banned-dogs",
+   "jurisdiction": "IS",
+   "title": "Dog breeds not permitted in Iceland",
+   "explanation": "Not permitted, including crosses for at least 5 generations: Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, American Bulldog, Fila Brasileiro, Tosa Inu, Dogo Argentino, Cane Corso, Presa Canario, Boerboel, and wolf hybrids.",
+   "species": [
+    "dog"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "breedBan"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Icelandic Food and Veterinary Authority (MAST): Import of live animals",
+    "url": "https://www.mast.is/en/import-export/import-of-live-animals"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "breeds": [
+    "pit-bull-terrier",
+    "american-staffordshire-terrier",
+    "staffordshire-bull-terrier",
+    "american-bulldog",
+    "fila-brasileiro",
+    "japanese-tosa",
+    "dogo-argentino",
+    "cane-corso",
+    "perro-de-presa-canario",
+    "boerboel",
+    "czechoslovakian-wolfdog",
+    "saarloos-wolfdog"
+   ],
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
    "id": "hk-permit",
    "jurisdiction": "HK",
    "title": "Special Permit",
@@ -8152,6 +8965,107 @@
    "verified": true,
    "lastChecked": "2026-11-21",
    "appliesFromAgeDays": 84,
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "us-tn-cvi",
+   "jurisdiction": "US-TN",
+   "title": "Certificate of Veterinary Inspection",
+   "explanation": "Dogs and cats need a Certificate of Veterinary Inspection (valid for 30 days) if they are entering Tennessee for more than 15 days.",
+   "species": [
+    "dog",
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "manualStep"
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Tennessee Department of Agriculture: Import requirements for animals",
+    "url": "https://www.tn.gov/agriculture/animals/animal-movement-requirements/import-requirements1.html"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "window": {
+    "unit": "days",
+    "earliest": -30,
+    "latest": 0
+   },
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "us-tn-rabies",
+   "jurisdiction": "US-TN",
+   "title": "Rabies vaccination (state rule)",
+   "explanation": "Dogs 3 months of age need a current rabies vaccination.",
+   "species": [
+    "dog"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "rabiesVaccination",
+    "earliestEntryDaysAfterPrimary": 0,
+    "minAgeDaysAtVaccination": 0,
+    "requireMicrochipFirst": false
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Tennessee Department of Agriculture: Import requirements for animals",
+    "url": "https://www.tn.gov/agriculture/animals/animal-movement-requirements/import-requirements1.html"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "appliesFromAgeMonths": 3,
+   "effectiveFrom": null,
+   "effectiveTo": null
+  },
+  {
+   "id": "us-tn-rabies-cat",
+   "jurisdiction": "US-TN",
+   "title": "Rabies vaccination (state rule)",
+   "explanation": "Cats 6 months of age need a current rabies vaccination.",
+   "species": [
+    "cat"
+   ],
+   "movement": {
+    "from": [
+     "*"
+    ],
+    "exceptFrom": []
+   },
+   "requirement": {
+    "type": "rabiesVaccination",
+    "earliestEntryDaysAfterPrimary": 0,
+    "minAgeDaysAtVaccination": 0,
+    "requireMicrochipFirst": false
+   },
+   "anchor": "arrival",
+   "dependsOn": [],
+   "exemptions": [],
+   "source": {
+    "title": "Tennessee Department of Agriculture: Import requirements for animals",
+    "url": "https://www.tn.gov/agriculture/animals/animal-movement-requirements/import-requirements1.html"
+   },
+   "verified": true,
+   "lastChecked": "2026-11-21",
+   "appliesFromAgeMonths": 6,
    "effectiveFrom": null,
    "effectiveTo": null
   }
