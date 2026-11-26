@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "revision": 2026112502,
- "generatedAt": "2026-11-25",
+ "revision": 2026112602,
+ "generatedAt": "2026-11-26",
  "disclaimer": "Always confirm requirements with your vet and the official authority before travel.",
  "fullySupportedSpecies": [
   "dog",
@@ -2749,7 +2749,7 @@
     "url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/ban-on-xl-bully-dogs/"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "xl-bully"
    ],
@@ -2785,7 +2785,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Marking of animal",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -2822,7 +2822,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Vaccination against rabies",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -2855,7 +2855,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -2888,7 +2888,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -2929,7 +2929,7 @@
     "url": "https://food.ec.europa.eu/animals/movement-pets_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "hours",
     "earliest": -120,
@@ -2966,7 +2966,7 @@
     "url": "https://www.gov.uk/bring-pet-to-uk/microchip"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Marking of animal",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -3004,7 +3004,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/rabies-vaccination-and-boosters"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Vaccination against rabies",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -3036,7 +3036,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/which-pet-travel-document"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3077,7 +3077,7 @@
     "url": "https://www.gov.uk/bring-pet-to-uk/tapeworm-treatment-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "hours",
     "earliest": -120,
@@ -3112,7 +3112,7 @@
     "url": "https://www.gov.uk/control-dog-public/banned-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "pit-bull-terrier",
     "japanese-tosa",
@@ -3151,7 +3151,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3186,7 +3186,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/great-britain-pet-health-certificate"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -10,
@@ -3239,7 +3239,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/rabies-blood-tests"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3273,7 +3273,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/travel-routes-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3304,7 +3304,7 @@
     "url": "https://www.gov.uk/bring-pet-to-great-britain/which-pet-travel-document"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3338,7 +3338,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3368,7 +3368,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "dogo-argentino",
     "fila-brasileiro",
@@ -3407,7 +3407,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-cats"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "bengal",
     "savannah"
@@ -3442,7 +3442,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3473,8 +3473,9 @@
     "title": "DAFF: How to bring your dog to Australia from a Group 3 country",
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
-   "verified": true,
-   "lastChecked": "2026-11-23",
+   "verified": false,
+   "lastChecked": "2026-11-26",
+   "verificationNote": "Read in browser 2026-11-26: the cited Group 3 dog guide says the permit is valid until the rabies test (RNATT) expires, 12 months from the blood sample, and must be valid on the date the dog arrives in Australia. 'Valid for up to 12 months' and 'valid at the time of export' are the Group 2 dog guide's wording. Human look: split the rule per group or reword.",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3507,7 +3508,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3538,7 +3539,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3569,7 +3570,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3602,7 +3603,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-2-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -3638,7 +3639,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-2-step-by-step-guide-for-dogs"
    },
    "verified": false,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The detailed timings for Group 2 are on the permit and in the guide's later steps, which were not read in full.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -3673,7 +3674,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3705,7 +3706,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -3746,7 +3747,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3778,7 +3779,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -3807,7 +3808,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -45,
@@ -3841,7 +3842,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -45,
@@ -3875,7 +3876,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -45,
@@ -3911,7 +3912,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -3946,7 +3947,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -3981,7 +3982,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-cats"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -4016,7 +4017,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -45,
@@ -4053,7 +4054,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -5,
@@ -4088,7 +4089,7 @@
     "url": "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-23",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -5,
@@ -4123,7 +4124,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4161,7 +4162,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4200,7 +4201,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4231,7 +4232,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -4266,7 +4267,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -10,
@@ -4303,7 +4304,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4333,7 +4334,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-free.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4362,7 +4363,7 @@
     "url": "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4393,7 +4394,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4424,7 +4425,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4458,7 +4459,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -4493,7 +4494,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4522,7 +4523,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4551,7 +4552,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4581,7 +4582,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4612,7 +4613,7 @@
     "url": "https://aqcsindia.gov.in/Home/ImportPetUnderBaggage"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -7,
@@ -4647,7 +4648,7 @@
     "url": "https://aqcsindia.gov.in/Home/FAQ"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4677,7 +4678,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesBelowAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -4713,7 +4714,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 8,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -4747,7 +4748,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 8,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -4781,7 +4782,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The CFIA answer for dogs aged 3 to 8 months is longer than the one read; only its first requirement is captured.",
    "appliesFromAgeMonths": 3,
    "appliesBelowAgeMonths": 8,
@@ -4819,7 +4820,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -4853,7 +4854,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The CFIA answer for cats from rabies-free countries was not read; the general cat rule is shown.",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
@@ -4885,7 +4886,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -4922,7 +4923,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5100,7 +5101,7 @@
     "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/dogs"
    },
    "verified": true,
-   "lastChecked": "2026-11-24",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5264,8 +5265,9 @@
     "title": "CDC: Approved animal care facilities",
     "url": "https://www.cdc.gov/importation/dogs/approved-care-facilities.html"
    },
-   "verified": true,
-   "lastChecked": "2026-11-23",
+   "verified": false,
+   "lastChecked": "2026-11-26",
+   "verificationNote": "Read in browser 2026-11-26: the cited CDC page lists the same eight airports and requires the reservation for exam and revaccination, but does not state 'No onward domestic travel until the facility releases the dog'. Human look: cite the page that says it or drop the sentence.",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5297,7 +5299,7 @@
     "url": "https://dab.hawaii.gov/ai/files/2023/06/Checklist-1-06.13.2023.pdf"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5336,7 +5338,7 @@
     "url": "https://dab.hawaii.gov/ai/files/2023/06/Checklist-1-06.13.2023.pdf"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5374,7 +5376,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The pass mark is not stated in the text read; 0.5 IU/ml is assumed.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5407,7 +5409,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/aqs-info/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -5444,7 +5446,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -14,
@@ -5481,7 +5483,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/aqs-info/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5511,7 +5513,7 @@
     "url": "https://dab.hawaii.gov/ai/files/2020/05/aqs-checklist-exempt-Rev_5.11.2020.pdf"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -14,
@@ -5547,7 +5549,7 @@
     "url": "https://dab.hawaii.gov/ai/files/2020/05/aqs-checklist-exempt-Rev_5.11.2020.pdf"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5577,7 +5579,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/aqs-info/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5606,7 +5608,7 @@
     "url": "https://dab.hawaii.gov/pi/pq/import-program/animal-guidelines/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5637,7 +5639,7 @@
     "url": "https://dab.hawaii.gov/ai/aqs/aqs-info/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "bengal",
     "savannah",
@@ -5673,7 +5675,7 @@
     "url": "https://doag.guam.gov/animal-health-animal-control/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -5708,7 +5710,7 @@
     "url": "https://doag.guam.gov/animal-health-animal-control/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -10,
@@ -5749,7 +5751,7 @@
     "url": "https://doag.guam.gov/animal-health-animal-control/"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The pass mark is not stated on the page read; 0.5 IU/ml is assumed.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5780,7 +5782,7 @@
     "url": "https://doag.guam.gov/animal-health-animal-control/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "hours",
     "earliest": 0,
@@ -5817,7 +5819,7 @@
     "url": "https://doag.guam.gov/animal-health-animal-control/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -5851,7 +5853,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Marking of animal",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5890,7 +5892,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Vaccination against rabies",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5941,7 +5943,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Rabies antibody titration test",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -5977,7 +5979,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6012,7 +6014,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6047,7 +6049,7 @@
     "url": "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6078,7 +6080,7 @@
     "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6113,7 +6115,7 @@
     "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6144,7 +6146,7 @@
     "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6176,7 +6178,7 @@
     "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6205,7 +6207,7 @@
     "url": "https://www.blv.admin.ch/en/travelling-with-dogs-cats-and-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6236,7 +6238,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6273,7 +6275,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6307,7 +6309,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6349,7 +6351,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "hours",
     "earliest": -120,
@@ -6395,7 +6397,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "DAERA points to the EU's lists for which countries are listed; PawRoute uses the lists on the European Commission page.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -6428,7 +6430,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/great-britain-northern-ireland-pet-travel-guidance"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6457,7 +6459,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/great-britain-northern-ireland-pet-travel-guidance"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6490,7 +6492,7 @@
     "url": "https://www.daera-ni.gov.uk/articles/travelling-pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6521,7 +6523,7 @@
     "url": "https://www.mattilsynet.no/en/animals/travelling-with-dogs-cats-and-ferrets-from-eu-countries-to-norway"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Marking of animal",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -6565,7 +6567,7 @@
     "url": "https://www.mattilsynet.no/en/animals/travelling-with-dogs-cats-and-ferrets-from-eu-countries-to-norway"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "passportSection": "Vaccination against rabies",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -6597,7 +6599,7 @@
     "url": "https://www.mattilsynet.no/en/animals/travelling-with-dogs-cats-and-ferrets-from-eu-countries-to-norway"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6629,7 +6631,7 @@
     "url": "https://www.mattilsynet.no/en/animals/travelling-with-dogs-cats-and-ferrets-from-eu-countries-to-norway"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6662,7 +6664,7 @@
     "url": "https://www.mattilsynet.no/en/animals/mandatory-treatment-for-echinococcosis-for-dogs-imported-to-norway"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6693,7 +6695,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The rule is 12 weeks at export; PawRoute checks 3 months at arrival, which is slightly stricter.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -6724,7 +6726,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6760,7 +6762,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6798,7 +6800,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": false,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "verificationNote": "The pass mark is in the veterinary conditions PDF, which was not read; 0.5 IU/ml is assumed.",
    "effectiveFrom": null,
    "effectiveTo": null
@@ -6830,7 +6832,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -6863,7 +6865,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -90,
@@ -6898,7 +6900,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -6934,7 +6936,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -7,
@@ -6971,7 +6973,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7000,7 +7002,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "pit-bull-terrier",
     "american-staffordshire-terrier",
@@ -7043,7 +7045,7 @@
     "url": "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7073,7 +7075,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "hours",
     "earliest": 0,
@@ -7111,7 +7113,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -15,
@@ -7153,7 +7155,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -7187,7 +7189,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -180,
@@ -7222,7 +7224,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -5,
@@ -7258,7 +7260,7 @@
     "url": "https://www.gob.mx/senasica/documentos/requirements-and-procedures-for-traveling-to-mexico-with-your-pet"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7291,7 +7293,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7322,7 +7324,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7354,7 +7356,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7388,7 +7390,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7419,7 +7421,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7455,7 +7457,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7490,7 +7492,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7525,7 +7527,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7555,7 +7557,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -7591,7 +7593,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -28,
@@ -7629,7 +7631,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -10,
@@ -7666,7 +7668,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": null,
@@ -7702,7 +7704,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7733,7 +7735,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7762,7 +7764,7 @@
     "url": "https://www.mast.is/en/import-export/import-of-live-animals"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "pit-bull-terrier",
     "american-staffordshire-terrier",
@@ -7808,7 +7810,7 @@
     "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7838,7 +7840,7 @@
     "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7868,7 +7870,7 @@
     "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -7897,7 +7899,7 @@
     "url": "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "breeds": [
     "pit-bull-terrier",
     "japanese-tosa",
@@ -7933,7 +7935,7 @@
     "url": "https://agi.alabama.gov/animalindustries/animal-health/imports-requirements/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -7971,7 +7973,7 @@
     "url": "https://agi.alabama.gov/animalindustries/animal-health/imports-requirements/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8002,7 +8004,7 @@
     "url": "https://www.cdfa.ca.gov/ahfss/Animal_Health/Entry_Requirements.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8031,7 +8033,7 @@
     "url": "https://www.cdfa.ca.gov/ahfss/Animal_Health/Entry_Requirements.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8064,7 +8066,7 @@
     "url": "https://www.fdacs.gov/Consumer-Resources/Animals/Animal-Movement/Dog-and-Cat-Movement-Requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8095,7 +8097,7 @@
     "url": "https://www.fdacs.gov/Consumer-Resources/Animals/Animal-Movement/Dog-and-Cat-Movement-Requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8129,7 +8131,7 @@
     "url": "https://www.agr.georgia.gov/bringing-animals-georgia"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8158,7 +8160,7 @@
     "url": "https://www.agr.georgia.gov/bringing-animals-georgia"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8188,7 +8190,7 @@
     "url": "https://agr.illinois.gov/animals/animalhealth/animal-import.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -8226,7 +8228,7 @@
     "url": "https://agr.illinois.gov/animals/animalhealth/animal-import.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 112,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8258,7 +8260,7 @@
     "url": "https://www.in.gov/boah/species-information/companion-animals-dogs-cats/dogs-cats-and-ferrets-entry-requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -8297,7 +8299,7 @@
     "url": "https://www.in.gov/boah/species-information/companion-animals-dogs-cats/dogs-cats-and-ferrets-entry-requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8398,7 +8400,7 @@
     "url": "https://www.mbah.ms.gov/regulations/chapter-12/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 3,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8430,7 +8432,7 @@
     "url": "https://www.mbah.ms.gov/regulations/chapter-12/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8529,7 +8531,7 @@
     "url": "https://www.ndda.nd.gov/divisions/animal-health/animal-movement-and-importation-requirements/dogs-cats-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-24",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 84,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8561,7 +8563,7 @@
     "url": "https://www.ndda.nd.gov/divisions/animal-health/animal-movement-and-importation-requirements/dogs-cats-ferrets"
    },
    "verified": true,
-   "lastChecked": "2026-11-24",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8591,7 +8593,7 @@
     "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/traveling-with-animals/Pages/import-requirements.aspx"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -8629,7 +8631,7 @@
     "url": "https://www.oregon.gov/oda/animal-health-feeds-livestock-id/traveling-with-animals/Pages/import-requirements.aspx"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 112,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8661,7 +8663,7 @@
     "url": "https://www.clemson.edu/public/lph/ahp/import/canine-feline-ferret.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -8700,7 +8702,7 @@
     "url": "https://www.clemson.edu/public/lph/ahp/import/canine-feline-ferret.html"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8733,7 +8735,7 @@
     "url": "https://www.dshs.texas.gov/notifiable-conditions/zoonosis-control/laws/animal-import-export-requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 84,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8764,7 +8766,7 @@
     "url": "https://www.dshs.texas.gov/notifiable-conditions/zoonosis-control/laws/animal-import-export-requirements"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8794,7 +8796,7 @@
     "url": "https://www.vdacs.virginia.gov/animals-animal-admissions.shtml"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8828,7 +8830,7 @@
     "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=16-54-170"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 90,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8860,7 +8862,7 @@
     "url": "https://app.leg.wa.gov/WAC/default.aspx?cite=16-54-170"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "effectiveFrom": null,
    "effectiveTo": null
   },
@@ -8891,7 +8893,7 @@
     "url": "https://datcp.wi.gov/Pages/Programs_Services/PetMovement.aspx"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "window": {
     "unit": "days",
     "earliest": -30,
@@ -8929,7 +8931,7 @@
     "url": "https://datcp.wi.gov/Pages/Programs_Services/PetMovement.aspx"
    },
    "verified": true,
-   "lastChecked": "2026-11-25",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeMonths": 5,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -8964,7 +8966,7 @@
     "url": "https://wlsb.state.wy.us/import-rules/dogs-cats-ferrets/"
    },
    "verified": true,
-   "lastChecked": "2026-11-24",
+   "lastChecked": "2026-11-26",
    "appliesFromAgeDays": 84,
    "effectiveFrom": null,
    "effectiveTo": null
@@ -9101,7 +9103,7 @@
     "url": "https://aqcsindia.gov.in/Home/FAQ"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ca-ferret",
@@ -9126,7 +9128,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ca-rabbit",
@@ -9154,7 +9156,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ca-rodent",
@@ -9179,7 +9181,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ca-reptile",
@@ -9205,7 +9207,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ca-bird-fish",
@@ -9230,7 +9232,7 @@
     "url": "https://inspection.canada.ca/en/importing-food-plants-animals/pets"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "us-bird",
@@ -9258,7 +9260,7 @@
     "url": "https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/birds"
    },
    "verified": true,
-   "lastChecked": "2026-11-24"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "us-small",
@@ -9342,7 +9344,7 @@
     "url": "https://dab.hawaii.gov/pi/pq/import-program/animal-guidelines/"
    },
    "verified": true,
-   "lastChecked": "2026-11-25"
+   "lastChecked": "2026-11-26"
   },
   {
    "id": "ie-birds-eu",
